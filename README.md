@@ -1,6 +1,6 @@
 # Hackerrank-Problems
 
-A website were DEVELOPERS can Practice, Compete, Find Jobs.
+A website were developers can Practice, Compete and Find Jobs.
 
 The HackerRank Community is the largest learning and competition community for programmers.
 
